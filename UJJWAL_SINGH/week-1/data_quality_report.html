@@ -1,0 +1,391 @@
+
+<html>
+<head>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h1>Data Quality Report</h1>
+  <h2>Before Cleaning</h2>
+  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>name</th>
+      <th>price</th>
+      <th>spec_score</th>
+      <th>sim_info</th>
+      <th>battery</th>
+      <th>storage</th>
+      <th>display_info</th>
+      <th>camera</th>
+      <th>processor</th>
+      <th>memorycard_support</th>
+      <th>os</th>
+      <th>price_clean</th>
+      <th>battery_mah</th>
+      <th>ram_gb</th>
+      <th>storage_gb</th>
+      <th>display_size</th>
+      <th>refresh_rate</th>
+      <th>memorycard_clean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OnePlus 13T</td>
+      <td>₹54,990</td>
+      <td>90</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster</td>
+      <td>6200 mAh Battery with 80W Fast Charging</td>
+      <td>12 GB RAM, 256 GB inbuilt</td>
+      <td>6.31 inches, 1440 x 3168 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 50 MP Dual Rear &amp; 32 MP Front Camera</td>
+      <td>Snapdragon 8 Elite, Octa Core, 4.32 GHz Processor</td>
+      <td>Memory Card Not Supported</td>
+      <td>Android v15</td>
+      <td>54990.0</td>
+      <td>6200.0</td>
+      <td>12.0</td>
+      <td>256.0</td>
+      <td>6.31</td>
+      <td>120.0</td>
+      <td>Not_Supported</td>
+    </tr>
+    <tr>
+      <td>iQOO Z10 5G</td>
+      <td>₹21,999</td>
+      <td>82</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+      <td>7300 mAh Battery with 90W Fast Charging</td>
+      <td>8 GB RAM, 128 GB inbuilt</td>
+      <td>6.77 inches, 1080 x 2392 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 2 MP Dual Rear &amp; 32 MP Front Camera</td>
+      <td>Snapdragon 7s Gen3, Octa Core, 2.5 GHz Processor</td>
+      <td>Memory Card Not Supported</td>
+      <td>Android v15</td>
+      <td>21999.0</td>
+      <td>7300.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.77</td>
+      <td>120.0</td>
+      <td>Not_Supported</td>
+    </tr>
+    <tr>
+      <td>Vivo T4 5G</td>
+      <td>₹22,990</td>
+      <td>75</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+      <td>7300 mAh Battery with 90W Fast Charging</td>
+      <td>8 GB RAM, 128 GB inbuilt</td>
+      <td>6.67 inches, 1080 x 2400 px, 120 Hz Display with Water Drop Notch</td>
+      <td>50 MP + 2 MP Dual Rear &amp; 32 MP Front Camera</td>
+      <td>Snapdragon 7s Gen3, Octa Core Processor</td>
+      <td>Memory Card (Hybrid), upto 1 TB</td>
+      <td>Android v15</td>
+      <td>22990.0</td>
+      <td>7300.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.67</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+    </tr>
+    <tr>
+      <td>Motorola Edge 60 Fusion</td>
+      <td>₹25,979</td>
+      <td>86</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi</td>
+      <td>5500 mAh Battery with 68W Fast Charging</td>
+      <td>8 GB RAM, 256 GB inbuilt</td>
+      <td>6.7 inches, 1220 x 2712 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 13 MP Dual Rear &amp; 32 MP Front Camera</td>
+      <td>Dimensity 7400, Octa Core, 2.5 GHz Processor</td>
+      <td>Memory Card (Hybrid), upto 1 TB</td>
+      <td>Android v15</td>
+      <td>25979.0</td>
+      <td>5500.0</td>
+      <td>8.0</td>
+      <td>256.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+    </tr>
+    <tr>
+      <td>Infinix Note 50s 5G</td>
+      <td>₹15,999</td>
+      <td>81</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+      <td>5500 mAh Battery with 45W Fast Charging</td>
+      <td>8 GB RAM, 128 GB inbuilt</td>
+      <td>6.78 inches, 1080 x 2436 px, 144 Hz Display with Punch Hole</td>
+      <td>64 MP + 2 MP Dual Rear &amp; 13 MP Front Camera</td>
+      <td>Dimensity 7300 Ultimate, Octa Core, 2.5 GHz Processor</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>15999.0</td>
+      <td>5500.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.78</td>
+      <td>144.0</td>
+      <td>Not_Specified</td>
+    </tr>
+    <tr>
+      <td>Motorola Edge 60 Stylus</td>
+      <td>₹22,999</td>
+      <td>88</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC</td>
+      <td>5000 mAh Battery with 68W Fast Charging</td>
+      <td>8 GB RAM, 256 GB inbuilt</td>
+      <td>6.7 inches, 1220 x 2712 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 13 MP Dual Rear &amp; 32 MP Front Camera</td>
+      <td>Snapdragon 7s Gen2, Octa Core, 2.4 GHz Processor</td>
+      <td>Memory Card Supported, upto 1 TB</td>
+      <td>Android v15</td>
+      <td>22999.0</td>
+      <td>5000.0</td>
+      <td>8.0</td>
+      <td>256.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Supported</td>
+    </tr>
+    <tr>
+      <td>Samsung Galaxy M56</td>
+      <td>₹27,999</td>
+      <td>81</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+      <td>5000 mAh Battery with 45W Fast Charging</td>
+      <td>8 GB RAM, 128 GB inbuilt</td>
+      <td>6.74 inches, 1080 x 2340 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 8 MP + 2 MP Triple Rear &amp; 12 MP Front Camera</td>
+      <td>Exynos 1480, Octa Core, 2.7 GHz Processor</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>27999.0</td>
+      <td>5000.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.74</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+    </tr>
+    <tr>
+      <td>iQOO Z10x</td>
+      <td>₹13,499</td>
+      <td>76</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+      <td>6500 mAh Battery with 44W Fast Charging</td>
+      <td>6 GB RAM, 128 GB inbuilt</td>
+      <td>6.72 inches, 1080 x 2408 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 2 MP Dual Rear &amp; 8 MP Front Camera</td>
+      <td>Dimensity 7300, Octa Core, 2.5 GHz Processor</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13499.0</td>
+      <td>6500.0</td>
+      <td>6.0</td>
+      <td>128.0</td>
+      <td>6.72</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+    </tr>
+    <tr>
+      <td>CMF Phone 2 Pro</td>
+      <td>₹21,999</td>
+      <td>75</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+      <td>5000 mAh Battery with 33W Fast Charging</td>
+      <td>6 GB RAM, 128 GB inbuilt</td>
+      <td>6.7 inches, 1080 x 2400 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 50 MP + 8 MP Triple Rear &amp; 32 MP Front Camera</td>
+      <td>Dimensity 7300 Pro, Octa Core Processor</td>
+      <td>Memory Card (Hybrid), upto 1 TB</td>
+      <td>Android v15</td>
+      <td>21999.0</td>
+      <td>5000.0</td>
+      <td>6.0</td>
+      <td>128.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+    </tr>
+    <tr>
+      <td>Oppo K13</td>
+      <td>₹17,999</td>
+      <td>80</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+      <td>7000 mAh Battery with 80W Fast Charging</td>
+      <td>8 GB RAM, 128 GB inbuilt</td>
+      <td>6.67 inches, 1080 x 2400 px, 120 Hz Display with Punch Hole</td>
+      <td>50 MP + 2 MP Dual Rear &amp; 16 MP Front Camera</td>
+      <td>Snapdragon 6 Gen4, Octa Core, 2.3 GHz Processor</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17999.0</td>
+      <td>7000.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.67</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+    </tr>
+  </tbody>
+</table>
+  <h2>After Cleaning</h2>
+  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>phone_name</th>
+      <th>price</th>
+      <th>spec_score</th>
+      <th>battery_mah</th>
+      <th>ram_gb</th>
+      <th>storage_gb</th>
+      <th>display_size_inches</th>
+      <th>refresh_rate_hz</th>
+      <th>memory_card_support</th>
+      <th>os</th>
+      <th>sim_info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OnePlus 13T</td>
+      <td>54990.0</td>
+      <td>90</td>
+      <td>6200.0</td>
+      <td>12.0</td>
+      <td>256.0</td>
+      <td>6.31</td>
+      <td>120.0</td>
+      <td>Not_Supported</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC, IR Blaster</td>
+    </tr>
+    <tr>
+      <td>iQOO Z10 5G</td>
+      <td>21999.0</td>
+      <td>82</td>
+      <td>7300.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.77</td>
+      <td>120.0</td>
+      <td>Not_Supported</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+    </tr>
+    <tr>
+      <td>Vivo T4 5G</td>
+      <td>22990.0</td>
+      <td>75</td>
+      <td>7300.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.67</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+    </tr>
+    <tr>
+      <td>Motorola Edge 60 Fusion</td>
+      <td>25979.0</td>
+      <td>86</td>
+      <td>5500.0</td>
+      <td>8.0</td>
+      <td>256.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi</td>
+    </tr>
+    <tr>
+      <td>Infinix Note 50s 5G</td>
+      <td>15999.0</td>
+      <td>81</td>
+      <td>5500.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.78</td>
+      <td>144.0</td>
+      <td>Not_Specified</td>
+      <td>NaN</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+    </tr>
+    <tr>
+      <td>Motorola Edge 60 Stylus</td>
+      <td>22999.0</td>
+      <td>88</td>
+      <td>5000.0</td>
+      <td>8.0</td>
+      <td>256.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Supported</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Vo5G, Wi-Fi, NFC</td>
+    </tr>
+    <tr>
+      <td>Samsung Galaxy M56</td>
+      <td>27999.0</td>
+      <td>81</td>
+      <td>5000.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.74</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+      <td>NaN</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+    </tr>
+    <tr>
+      <td>iQOO Z10x</td>
+      <td>13499.0</td>
+      <td>76</td>
+      <td>6500.0</td>
+      <td>6.0</td>
+      <td>128.0</td>
+      <td>6.72</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+      <td>NaN</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+    </tr>
+    <tr>
+      <td>CMF Phone 2 Pro</td>
+      <td>21999.0</td>
+      <td>75</td>
+      <td>5000.0</td>
+      <td>6.0</td>
+      <td>128.0</td>
+      <td>6.70</td>
+      <td>120.0</td>
+      <td>Hybrid</td>
+      <td>Android v15</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi</td>
+    </tr>
+    <tr>
+      <td>Oppo K13</td>
+      <td>17999.0</td>
+      <td>80</td>
+      <td>7000.0</td>
+      <td>8.0</td>
+      <td>128.0</td>
+      <td>6.67</td>
+      <td>120.0</td>
+      <td>Not_Specified</td>
+      <td>NaN</td>
+      <td>Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, IR Blaster</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
