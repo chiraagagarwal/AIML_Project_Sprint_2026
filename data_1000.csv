@@ -1,0 +1,1021 @@
+id,name,age,salary,department,joining_date
+702,Harsh,51,90128.0,IT,not_a_date
+862,Amit,,,,2015-09-19 00:00:00
+24,Pallavi,abc,500000.0,Support,not_a_date
+672,Manoj,abc,106061.0,HR,not_a_date
+136,Lakshmi,43,500000.0,R&D,2024-03-13 00:00:00
+941,Naveen,abc,,Support,2021-10-25 00:00:00
+597,Anita,,149165.0,,not_a_date
+146,Mohit,abc,101429.0,Sales,not_a_date
+142,Lakshmi,abc,500000.0,Legal,not_a_date
+430,Manoj,,,Management,2022-06-01 00:00:00
+120,Mohit,abc,500000.0,Finance,not_a_date
+246,Meera,abc,45559.0,Operations,2023-01-12 00:00:00
+531,Pallavi,,,Finance,2016-05-03 00:00:00
+575,Sneha,abc,39199.0,IT,2019-12-02 00:00:00
+630,Manoj,53,500000.0,Marketing,not_a_date
+692,Meera,37,41082.0,Marketing,2016-10-23 00:00:00
+276,Kiran,24,,Legal,2019-07-27 00:00:00
+737,Deepak,abc,50611.0,Finance,not_a_date
+715,Aditya,,117152.0,Legal,not_a_date
+711,John,56,89324.0,,2023-05-11 00:00:00
+759,Riya,abc,500000.0,Legal,2019-05-28 00:00:00
+722,Manoj,48,145585.0,Marketing,not_a_date
+426,Naveen,20,500000.0,Management,2019-06-25 00:00:00
+960,Lakshmi,abc,,Management,2021-09-27 00:00:00
+517,John,,,IT,2020-10-21 00:00:00
+500,Sneha,53,121523.0,Marketing,2019-11-08 00:00:00
+60,Ankit,abc,,Operations,2022-03-10 00:00:00
+998,Meera,39,,Finance,2022-01-27 00:00:00
+172,Rakesh,abc,,Finance,2024-03-10 00:00:00
+640,Isha,,,R&D,not_a_date
+864,Anita,,,Finance,not_a_date
+249,Isha,,,Support,not_a_date
+70,Sameer,,122504.0,Management,2018-06-11 00:00:00
+347,Harsh,,500000.0,Operations,2019-10-28 00:00:00
+469,Nisha,,500000.0,,not_a_date
+34,Aditya,abc,,R&D,2022-01-12 00:00:00
+346,Anita,,87981.0,Management,not_a_date
+781,Mohit,,,Legal,not_a_date
+9,Lakshmi,,,Legal,2016-04-04 00:00:00
+408,Raj,,39382.0,Finance,2021-06-29 00:00:00
+544,Divya,53,500000.0,,2022-10-23 00:00:00
+985,Kiran,51,,IT,2017-05-23 00:00:00
+879,Raj,abc,500000.0,Marketing,2020-05-14 00:00:00
+152,Lakshmi,41,56024.0,Management,not_a_date
+976,Riya,32,,HR,not_a_date
+646,Anita,44,,IT,2024-04-03 00:00:00
+296,Rakesh,53,98553.0,Management,2022-10-16 00:00:00
+830,Kavya,,,,not_a_date
+904,Tanya,,,R&D,2019-05-17 00:00:00
+321,Kiran,,500000.0,IT,not_a_date
+583,Sneha,22,68642.0,Support,2017-09-14 00:00:00
+222,Naveen,abc,,Finance,not_a_date
+486,Harsh,,500000.0,R&D,not_a_date
+42,Arjun,27,500000.0,Legal,not_a_date
+867,Kunal,,500000.0,Marketing,not_a_date
+364,Pallavi,52,,HR,2015-04-23 00:00:00
+545,Pallavi,,122241.0,IT,not_a_date
+639,Simran,,500000.0,,not_a_date
+201,Suresh,55,500000.0,IT,not_a_date
+261,Mohit,abc,,Marketing,2019-05-01 00:00:00
+790,Manoj,,,Support,not_a_date
+914,Harsh,40,500000.0,Operations,2021-07-13 00:00:00
+385,Amit,abc,44282.0,IT,not_a_date
+259,Sneha,36,63088.0,Finance,2017-07-17 00:00:00
+117,Arjun,36,95271.0,Sales,not_a_date
+190,Naveen,abc,500000.0,HR,not_a_date
+75,Suresh,abc,500000.0,Sales,2020-11-30 00:00:00
+659,Tanya,,108309.0,,not_a_date
+370,Suresh,29,107180.0,HR,not_a_date
+712,Rahul,33,,Sales,not_a_date
+794,Isha,35,139793.0,IT,2018-12-14 00:00:00
+130,Aditya,,142858.0,HR,2016-11-30 00:00:00
+777,Arjun,,132522.0,Support,2020-11-02 00:00:00
+725,Manoj,,,Management,2021-06-18 00:00:00
+506,Naveen,55,,Management,2017-03-04 00:00:00
+30,Mohit,59,500000.0,Marketing,not_a_date
+287,Pooja,22,500000.0,Sales,not_a_date
+925,Simran,20,,Legal,2016-07-25 00:00:00
+827,Sneha,52,500000.0,Support,not_a_date
+341,Rohan,22,107152.0,Support,2020-11-26 00:00:00
+778,Amit,abc,31471.0,R&D,2022-11-03 00:00:00
+802,Harsh,32,,Support,2023-09-25 00:00:00
+774,Varun,,88449.0,HR,not_a_date
+66,Rahul,abc,86373.0,IT,2022-05-04 00:00:00
+243,Arjun,44,,Support,2017-07-17 00:00:00
+410,Rahul,,41478.0,Management,not_a_date
+683,Pooja,abc,500000.0,Support,not_a_date
+799,Divya,abc,88646.0,,not_a_date
+530,Deepak,,500000.0,IT,not_a_date
+51,Anita,abc,25206.0,Finance,2017-11-04 00:00:00
+330,Mohit,abc,,Operations,2022-07-09 00:00:00
+184,Anita,23,500000.0,Operations,2022-10-10 00:00:00
+983,Pooja,24,,R&D,2016-03-24 00:00:00
+131,Anita,52,,Sales,not_a_date
+924,Pooja,abc,500000.0,Legal,not_a_date
+232,Amit,36,82854.0,IT,not_a_date
+485,Kunal,,,R&D,not_a_date
+144,Rahul,,114912.0,Marketing,2015-02-05 00:00:00
+622,Simran,41,,,2023-09-27 00:00:00
+180,Ankit,29,500000.0,Legal,not_a_date
+286,Lakshmi,,139937.0,Legal,not_a_date
+900,Nisha,,79823.0,Legal,2022-10-03 00:00:00
+576,Rohan,abc,500000.0,R&D,2019-03-25 00:00:00
+163,Vikram,abc,26150.0,R&D,2024-06-26 00:00:00
+691,Kunal,51,500000.0,Support,not_a_date
+348,Lakshmi,,,IT,not_a_date
+761,Pallavi,32,500000.0,HR,not_a_date
+763,Vikram,23,500000.0,Sales,2023-09-09 00:00:00
+958,Suresh,abc,500000.0,Finance,not_a_date
+395,Meera,25,79917.0,Sales,not_a_date
+344,Nisha,27,500000.0,R&D,not_a_date
+444,Rahul,abc,,R&D,2015-12-08 00:00:00
+103,Isha,abc,500000.0,HR,not_a_date
+633,Riya,abc,500000.0,HR,2018-01-03 00:00:00
+996,Harsh,38,500000.0,Marketing,2016-11-28 00:00:00
+449,Rohan,,500000.0,HR,2020-09-10 00:00:00
+67,Raj,abc,,Sales,2018-07-06 00:00:00
+801,Deepak,,84189.0,Sales,not_a_date
+374,Rohan,,,Legal,not_a_date
+299,Rohan,,81800.0,Support,not_a_date
+490,Isha,,,Support,not_a_date
+381,Pooja,abc,500000.0,Management,not_a_date
+978,Nisha,,500000.0,IT,2021-09-26 00:00:00
+932,Manoj,abc,500000.0,,not_a_date
+538,Sneha,,500000.0,Management,2017-04-06 00:00:00
+316,Harsh,,,R&D,2022-11-25 00:00:00
+165,Priya,20,500000.0,Legal,not_a_date
+594,Mohit,abc,500000.0,,2021-07-24 00:00:00
+64,Kunal,abc,46976.0,Operations,not_a_date
+483,Deepak,abc,500000.0,Support,not_a_date
+577,Naveen,,,Finance,2020-03-28 00:00:00
+211,Suresh,abc,,Finance,not_a_date
+927,Harsh,,115900.0,Operations,not_a_date
+812,Kavya,,142867.0,Operations,2018-06-03 00:00:00
+424,Arjun,,500000.0,Finance,2024-03-22 00:00:00
+951,Neha,29,59964.0,Management,not_a_date
+241,Ankit,,77224.0,Legal,2021-08-31 00:00:00
+72,Tanya,,500000.0,Management,not_a_date
+981,Riya,abc,66321.0,,not_a_date
+679,Simran,abc,500000.0,Operations,2019-09-10 00:00:00
+231,Rakesh,abc,500000.0,IT,not_a_date
+217,Rohan,,,HR,2023-08-07 00:00:00
+11,Riya,44,,Legal,2017-12-18 00:00:00
+954,Lakshmi,abc,,Support,2018-08-04 00:00:00
+115,Raj,abc,83871.0,Finance,not_a_date
+557,Kiran,abc,500000.0,Management,not_a_date
+200,John,55,500000.0,Management,2024-03-02 00:00:00
+445,Kiran,abc,46566.0,Management,not_a_date
+467,Neha,27,,Operations,not_a_date
+285,Anita,abc,32239.0,,2019-04-24 00:00:00
+253,Pallavi,abc,36023.0,R&D,not_a_date
+663,Raj,,,HR,not_a_date
+992,Kunal,abc,51832.0,Marketing,2020-06-20 00:00:00
+844,Vikram,35,,Marketing,not_a_date
+910,John,,,Support,not_a_date
+503,Rohan,47,54373.0,Marketing,not_a_date
+853,Suresh,,500000.0,Legal,not_a_date
+425,Naveen,abc,,HR,2018-12-01 00:00:00
+769,Suresh,,,Finance,2023-08-14 00:00:00
+989,Varun,,56656.0,Management,2020-11-29 00:00:00
+664,Varun,,500000.0,HR,not_a_date
+860,Priya,,63067.0,,not_a_date
+417,Kiran,59,134777.0,Finance,not_a_date
+690,Manoj,abc,,Management,not_a_date
+666,Arjun,41,121347.0,Support,2022-06-13 00:00:00
+637,Kunal,,,Support,2015-01-21 00:00:00
+921,Raj,,51035.0,Operations,not_a_date
+158,Sneha,abc,,Marketing,2022-05-27 00:00:00
+554,Sameer,51,500000.0,Management,2020-03-29 00:00:00
+87,Aditya,35,500000.0,Finance,2023-12-17 00:00:00
+300,Varun,abc,,Operations,2016-06-25 00:00:00
+550,Riya,,,Sales,2016-05-07 00:00:00
+502,Rahul,abc,60737.0,Finance,2023-04-17 00:00:00
+386,Mohit,33,130881.0,Operations,2022-03-06 00:00:00
+250,Aditya,33,,Marketing,2018-10-28 00:00:00
+498,Naveen,abc,,Operations,2024-03-12 00:00:00
+894,Suresh,,500000.0,IT,not_a_date
+396,Amit,26,500000.0,,not_a_date
+676,Lakshmi,abc,74786.0,IT,2020-04-09 00:00:00
+268,Rohan,,125497.0,Operations,2015-08-12 00:00:00
+762,Priya,,,Finance,not_a_date
+447,Sameer,,500000.0,Finance,not_a_date
+437,Varun,abc,31783.0,R&D,not_a_date
+916,Mohit,55,,HR,2023-05-01 00:00:00
+297,Amit,,,Management,not_a_date
+281,Nisha,abc,500000.0,Operations,2020-08-10 00:00:00
+439,Kunal,abc,44956.0,Support,2020-02-23 00:00:00
+383,Rahul,abc,,Marketing,not_a_date
+110,Harsh,,71975.0,Management,not_a_date
+36,Riya,,149375.0,R&D,2023-08-01 00:00:00
+224,Rakesh,31,500000.0,IT,not_a_date
+984,Simran,23,138767.0,,not_a_date
+717,Neha,abc,500000.0,Finance,not_a_date
+617,Riya,48,107197.0,Operations,not_a_date
+479,Kiran,31,,Operations,2021-04-27 00:00:00
+234,Pallavi,55,,Sales,2024-02-06 00:00:00
+570,Tanya,abc,500000.0,IT,not_a_date
+239,Pooja,,500000.0,Marketing,2017-12-17 00:00:00
+52,Suresh,,500000.0,Operations,2023-01-18 00:00:00
+775,Amit,abc,500000.0,Management,2023-04-10 00:00:00
+251,Vikram,22,44087.0,Sales,not_a_date
+789,Rahul,40,,Sales,not_a_date
+863,Riya,,115517.0,Support,not_a_date
+695,Rakesh,54,,R&D,2020-11-10 00:00:00
+23,Arjun,abc,500000.0,Sales,2023-06-01 00:00:00
+809,Rohan,,61041.0,HR,not_a_date
+27,Harsh,,62065.0,R&D,not_a_date
+587,Sameer,abc,500000.0,Legal,not_a_date
+861,Naveen,42,500000.0,Legal,2023-12-12 00:00:00
+562,Priya,23,57913.0,Legal,not_a_date
+229,Rakesh,abc,113092.0,Operations,not_a_date
+765,Ankit,abc,61321.0,R&D,2021-09-10 00:00:00
+196,Divya,,40305.0,HR,2019-06-14 00:00:00
+35,Mohit,43,500000.0,Operations,2020-07-20 00:00:00
+655,John,,,Operations,not_a_date
+805,Meera,abc,500000.0,R&D,not_a_date
+94,Simran,,500000.0,Support,2022-12-29 00:00:00
+875,Manoj,abc,,,not_a_date
+848,Vikram,59,500000.0,HR,not_a_date
+634,Deepak,,85545.0,Finance,2019-09-07 00:00:00
+21,Priya,,500000.0,Support,not_a_date
+922,Meera,abc,,Legal,2022-02-14 00:00:00
+834,John,abc,131283.0,Sales,2021-08-25 00:00:00
+133,Rahul,,143015.0,Finance,not_a_date
+366,Manoj,abc,,HR,not_a_date
+872,Varun,,500000.0,Management,2023-02-26 00:00:00
+808,Priya,abc,80826.0,Support,not_a_date
+547,Simran,,119071.0,HR,2021-12-19 00:00:00
+754,Divya,,67823.0,Legal,2015-12-11 00:00:00
+121,Pooja,,,Operations,2020-09-05 00:00:00
+703,Simran,53,,Operations,not_a_date
+472,Simran,,31150.0,HR,2015-11-26 00:00:00
+760,Harsh,abc,500000.0,Marketing,not_a_date
+299,Rohan,,81800.0,Support,not_a_date
+671,Rahul,,75069.0,HR,2023-09-10 00:00:00
+642,Deepak,abc,500000.0,Sales,2023-05-15 00:00:00
+220,Pallavi,,500000.0,Operations,2017-11-28 00:00:00
+972,Sneha,abc,500000.0,,2017-02-08 00:00:00
+543,Naveen,,146826.0,Sales,2022-04-21 00:00:00
+312,Anita,,,HR,not_a_date
+257,Anita,47,52355.0,R&D,not_a_date
+918,Manoj,,500000.0,Marketing,2019-09-28 00:00:00
+135,Priya,22,,Management,2022-06-26 00:00:00
+539,Lakshmi,,500000.0,,not_a_date
+661,Rakesh,44,500000.0,Sales,2020-08-05 00:00:00
+842,Meera,,500000.0,Legal,2021-10-29 00:00:00
+523,Harsh,,45581.0,Management,2022-12-23 00:00:00
+186,Anita,,116007.0,Management,2021-01-16 00:00:00
+733,John,abc,116155.0,,2015-10-09 00:00:00
+522,Kunal,abc,111123.0,Legal,not_a_date
+292,Aditya,40,102709.0,Sales,2016-07-31 00:00:00
+963,Nisha,,,Support,not_a_date
+18,Lakshmi,abc,500000.0,Legal,2022-02-25 00:00:00
+92,Vikram,39,500000.0,Marketing,not_a_date
+487,Rahul,,500000.0,Sales,2016-06-04 00:00:00
+269,Pallavi,abc,,Legal,2024-03-07 00:00:00
+928,Amit,,,Management,2017-02-14 00:00:00
+907,Rakesh,,,IT,2020-08-06 00:00:00
+454,Aditya,21,500000.0,Operations,2017-09-14 00:00:00
+298,Pallavi,,,,2015-09-06 00:00:00
+365,Kavya,31,,IT,2020-11-07 00:00:00
+961,Kunal,abc,,,not_a_date
+123,Naveen,abc,,Support,2017-08-17 00:00:00
+442,Harsh,40,500000.0,Sales,not_a_date
+535,Raj,40,500000.0,Finance,not_a_date
+704,Deepak,abc,51017.0,Support,2023-02-27 00:00:00
+56,Divya,,,R&D,not_a_date
+889,Neha,21,,,2022-06-03 00:00:00
+37,Suresh,30,112538.0,Management,not_a_date
+415,Isha,42,,R&D,not_a_date
+107,Tanya,57,500000.0,Legal,2015-09-11 00:00:00
+632,Suresh,58,,Management,2017-06-05 00:00:00
+209,Meera,,136888.0,Support,2020-10-10 00:00:00
+982,Lakshmi,abc,90095.0,Sales,not_a_date
+264,Manoj,24,75990.0,,not_a_date
+238,Kiran,22,500000.0,Finance,not_a_date
+657,Ankit,30,,,not_a_date
+174,Naveen,49,120981.0,Legal,not_a_date
+77,Deepak,42,115084.0,IT,2019-10-26 00:00:00
+497,Ankit,31,500000.0,,2015-12-08 00:00:00
+275,Vikram,abc,,,2020-06-23 00:00:00
+526,Manoj,,500000.0,Support,not_a_date
+744,Isha,abc,,Sales,not_a_date
+945,Kavya,,48888.0,Sales,not_a_date
+94,Simran,,500000.0,Support,2022-12-29 00:00:00
+16,Pallavi,23,,,2021-06-21 00:00:00
+752,Raj,37,,Marketing,2015-10-30 00:00:00
+61,Pallavi,,120003.0,HR,2017-11-17 00:00:00
+203,Rohan,54,,Legal,2018-01-27 00:00:00
+432,Anita,,,Sales,2021-06-18 00:00:00
+857,Arjun,21,109328.0,Sales,not_a_date
+63,Harsh,,,Finance,not_a_date
+641,Lakshmi,abc,500000.0,Operations,not_a_date
+549,Sneha,44,32564.0,Finance,not_a_date
+466,Harsh,,,Operations,2023-05-13 00:00:00
+524,Naveen,31,76474.0,Finance,2019-06-25 00:00:00
+706,Raj,abc,143402.0,Legal,2024-01-22 00:00:00
+592,Raj,abc,,R&D,2017-08-30 00:00:00
+930,Pooja,abc,500000.0,Marketing,2023-03-23 00:00:00
+689,Ankit,,500000.0,Sales,not_a_date
+363,Rohan,23,,Finance,2016-12-24 00:00:00
+473,Meera,26,,Finance,2021-01-07 00:00:00
+869,Anita,,,Management,not_a_date
+335,Manoj,abc,63518.0,,not_a_date
+662,Kavya,abc,77648.0,Management,2018-11-16 00:00:00
+701,Rakesh,39,500000.0,Support,2021-01-08 00:00:00
+627,Sameer,abc,69064.0,Operations,not_a_date
+684,Simran,22,,Support,2017-03-19 00:00:00
+127,Varun,,500000.0,Sales,not_a_date
+244,Riya,,,Operations,not_a_date
+178,Sameer,,500000.0,IT,not_a_date
+936,Meera,,114570.0,Legal,not_a_date
+353,Mohit,,500000.0,Marketing,2023-01-25 00:00:00
+145,Vikram,39,,,not_a_date
+935,Pallavi,,88530.0,IT,2024-06-18 00:00:00
+176,Divya,abc,,R&D,2021-10-15 00:00:00
+527,Divya,,500000.0,IT,not_a_date
+288,Sneha,31,67944.0,HR,not_a_date
+106,Isha,30,141336.0,IT,not_a_date
+46,Meera,,,HR,not_a_date
+237,Tanya,45,118714.0,Operations,2015-02-08 00:00:00
+351,Nisha,abc,500000.0,Marketing,2022-11-30 00:00:00
+920,Kiran,59,97930.0,Management,2019-11-04 00:00:00
+578,Kavya,abc,500000.0,Operations,2020-10-10 00:00:00
+878,Mohit,,62685.0,Legal,not_a_date
+893,Riya,,,Finance,not_a_date
+305,Pooja,abc,,,not_a_date
+975,Sneha,,,Management,not_a_date
+957,Pooja,36,,Sales,not_a_date
+811,Rohan,,500000.0,Support,not_a_date
+284,Lakshmi,51,117193.0,Support,not_a_date
+814,Arjun,36,66621.0,Marketing,2022-10-23 00:00:00
+612,Naveen,43,500000.0,IT,2016-11-05 00:00:00
+643,Lakshmi,44,107711.0,Operations,2019-12-15 00:00:00
+406,Amit,55,96895.0,Management,not_a_date
+350,Rahul,abc,,IT,not_a_date
+150,Priya,,77921.0,Finance,not_a_date
+709,Kiran,49,137214.0,,2024-03-23 00:00:00
+923,Vikram,abc,500000.0,HR,2015-04-15 00:00:00
+358,Mohit,abc,500000.0,IT,not_a_date
+710,Anita,33,500000.0,Legal,not_a_date
+510,Nisha,abc,500000.0,Legal,not_a_date
+468,Deepak,abc,56821.0,Management,not_a_date
+837,Neha,abc,,Sales,not_a_date
+258,Kiran,55,45159.0,Finance,not_a_date
+429,Arjun,abc,125158.0,Operations,2016-07-20 00:00:00
+514,Meera,38,500000.0,Management,not_a_date
+823,Raj,38,63467.0,HR,not_a_date
+591,Manoj,,,IT,2015-02-06 00:00:00
+48,Varun,,,Marketing,not_a_date
+948,Harsh,34,116074.0,Operations,not_a_date
+380,Simran,54,500000.0,HR,2022-01-04 00:00:00
+816,Varun,,48711.0,IT,not_a_date
+207,Vikram,,61208.0,Marketing,2019-03-29 00:00:00
+882,Sneha,abc,42347.0,Legal,2016-06-20 00:00:00
+323,Rohan,,500000.0,Operations,2022-10-22 00:00:00
+836,Riya,,,Legal,not_a_date
+309,John,,31090.0,Sales,2024-06-07 00:00:00
+414,Tanya,,,R&D,2016-12-12 00:00:00
+416,Rakesh,,500000.0,Support,2020-12-28 00:00:00
+108,Arjun,abc,27557.0,Operations,not_a_date
+470,Kiran,56,500000.0,Management,2017-06-28 00:00:00
+865,Aditya,abc,500000.0,Sales,not_a_date
+20,Simran,,,Support,2021-12-31 00:00:00
+903,Vikram,abc,,Legal,2023-08-01 00:00:00
+813,Ankit,,500000.0,Legal,not_a_date
+584,Aditya,,500000.0,R&D,2018-05-03 00:00:00
+295,Sameer,abc,500000.0,Legal,2018-08-22 00:00:00
+902,John,abc,132315.0,IT,not_a_date
+463,Rohan,abc,,HR,2020-06-29 00:00:00
+971,Raj,abc,,Marketing,not_a_date
+779,Neha,,133997.0,Marketing,2020-05-01 00:00:00
+908,Lakshmi,abc,,HR,not_a_date
+448,Priya,abc,500000.0,Management,2021-10-18 00:00:00
+896,Vikram,,54794.0,Operations,not_a_date
+208,Simran,,137856.0,,not_a_date
+291,Arjun,,500000.0,Finance,2018-06-06 00:00:00
+345,Manoj,,106449.0,HR,2021-10-08 00:00:00
+98,Aditya,,,Legal,not_a_date
+973,Tanya,abc,135804.0,IT,not_a_date
+71,Mohit,43,,Management,2024-06-07 00:00:00
+476,Divya,37,500000.0,Legal,2020-04-04 00:00:00
+177,Riya,abc,119758.0,Sales,2019-06-24 00:00:00
+219,Neha,,500000.0,R&D,2023-10-28 00:00:00
+656,Varun,,500000.0,Marketing,2016-08-06 00:00:00
+579,Naveen,abc,500000.0,,not_a_date
+707,Rohan,abc,500000.0,Marketing,not_a_date
+325,Kunal,,,Sales,not_a_date
+680,Raj,,28389.0,Support,2018-01-12 00:00:00
+6,Anita,43,500000.0,R&D,not_a_date
+688,Naveen,,,,2017-01-19 00:00:00
+660,Deepak,57,51143.0,Legal,2020-08-20 00:00:00
+400,Anita,,500000.0,Finance,2018-01-25 00:00:00
+846,Aditya,abc,124983.0,Finance,not_a_date
+62,Raj,,73925.0,Finance,2020-06-04 00:00:00
+838,Tanya,abc,500000.0,Management,2015-04-26 00:00:00
+392,Anita,,,Finance,2023-05-13 00:00:00
+435,Raj,57,500000.0,Support,2023-12-26 00:00:00
+33,Manoj,abc,500000.0,Management,2015-03-06 00:00:00
+995,Anita,50,500000.0,Finance,not_a_date
+319,John,abc,500000.0,HR,2020-01-11 00:00:00
+338,Kiran,abc,139813.0,Legal,2022-10-30 00:00:00
+845,Meera,,133427.0,Marketing,2023-04-16 00:00:00
+29,Ankit,34,500000.0,Legal,2018-06-29 00:00:00
+651,Rahul,abc,72837.0,Support,2021-03-03 00:00:00
+988,Kunal,58,500000.0,HR,2017-07-11 00:00:00
+561,Mohit,abc,49951.0,Legal,2020-07-26 00:00:00
+513,Lakshmi,abc,,Marketing,not_a_date
+636,Kunal,,47042.0,HR,2022-12-06 00:00:00
+829,John,,,Legal,not_a_date
+14,Rakesh,22,,R&D,not_a_date
+215,Rakesh,26,500000.0,Finance,not_a_date
+841,Sameer,,35526.0,Support,2024-03-28 00:00:00
+589,Nisha,34,,Marketing,2021-07-03 00:00:00
+999,Nisha,,48705.0,IT,2020-01-03 00:00:00
+626,Sneha,abc,,Sales,2015-01-29 00:00:00
+934,Arjun,abc,500000.0,Finance,not_a_date
+891,Mohit,,67913.0,IT,2022-09-26 00:00:00
+534,Anita,,,,2019-12-23 00:00:00
+826,Priya,,136335.0,Support,2019-10-31 00:00:00
+747,Pallavi,20,500000.0,Marketing,2019-12-05 00:00:00
+197,Raj,53,82458.0,Sales,not_a_date
+901,Ankit,56,,Management,2018-11-04 00:00:00
+856,Mohit,42,500000.0,R&D,2022-08-28 00:00:00
+966,Kavya,abc,500000.0,Support,not_a_date
+748,Pooja,,,R&D,not_a_date
+318,Meera,abc,,Marketing,not_a_date
+877,Simran,abc,500000.0,Sales,2018-02-07 00:00:00
+851,Sneha,,500000.0,Legal,2021-09-19 00:00:00
+464,Kunal,,,HR,not_a_date
+937,John,36,,,not_a_date
+69,Priya,46,500000.0,Legal,2015-11-14 00:00:00
+334,Pooja,,500000.0,,not_a_date
+803,Nisha,,,HR,2018-05-28 00:00:00
+57,Harsh,,142930.0,IT,not_a_date
+787,Neha,abc,81088.0,Sales,not_a_date
+97,Lakshmi,abc,500000.0,R&D,2019-11-23 00:00:00
+482,Kiran,abc,500000.0,Support,2022-12-11 00:00:00
+850,Varun,,,R&D,not_a_date
+140,Suresh,abc,130864.0,Finance,2015-09-03 00:00:00
+866,Anita,57,500000.0,Finance,not_a_date
+389,Vikram,58,500000.0,Operations,not_a_date
+750,Raj,,,Support,not_a_date
+931,Kiran,,500000.0,Support,not_a_date
+126,Nisha,abc,,Legal,not_a_date
+995,Anita,50,500000.0,Finance,not_a_date
+113,Naveen,55,,Support,not_a_date
+840,Raj,55,,Legal,not_a_date
+460,Naveen,abc,51399.0,Management,not_a_date
+766,Isha,42,500000.0,IT,not_a_date
+179,Pooja,abc,51646.0,Sales,2019-11-21 00:00:00
+83,Rohan,,50342.0,,not_a_date
+739,Anita,43,,Sales,not_a_date
+654,Vikram,57,,Legal,2017-10-13 00:00:00
+743,Pooja,42,130899.0,,2018-08-10 00:00:00
+375,Sneha,,500000.0,Sales,not_a_date
+440,Priya,abc,146008.0,Legal,2015-10-12 00:00:00
+572,Isha,,,Management,not_a_date
+7,Neha,,500000.0,Management,not_a_date
+328,Priya,47,98686.0,Management,2020-10-26 00:00:00
+532,Tanya,45,,,2024-03-13 00:00:00
+371,Rakesh,abc,,,not_a_date
+563,Rahul,,500000.0,IT,not_a_date
+376,Meera,abc,51614.0,Marketing,not_a_date
+2,Kavya,34,,,2023-06-20 00:00:00
+151,Rakesh,abc,80609.0,IT,not_a_date
+874,Harsh,,500000.0,R&D,2015-09-23 00:00:00
+807,Raj,45,500000.0,Support,2019-05-23 00:00:00
+95,Neha,,26802.0,Operations,not_a_date
+148,Rohan,abc,103657.0,,2019-12-29 00:00:00
+89,Suresh,22,74811.0,HR,2022-09-12 00:00:00
+458,Isha,abc,,R&D,not_a_date
+508,Isha,30,114599.0,Management,not_a_date
+568,Priya,abc,25806.0,Sales,not_a_date
+80,Anita,,500000.0,Support,not_a_date
+204,Anita,,62841.0,Operations,not_a_date
+724,Lakshmi,abc,500000.0,Finance,2019-12-05 00:00:00
+735,Varun,,500000.0,Support,2021-12-07 00:00:00
+320,Simran,abc,48624.0,Support,not_a_date
+240,Amit,,500000.0,HR,not_a_date
+981,Riya,abc,66321.0,,not_a_date
+885,Suresh,51,119299.0,Marketing,2016-06-26 00:00:00
+336,Pooja,47,500000.0,,2017-11-28 00:00:00
+609,Raj,abc,500000.0,Marketing,not_a_date
+772,Ankit,44,108360.0,R&D,2015-11-01 00:00:00
+832,Vikram,,29255.0,HR,2021-01-05 00:00:00
+755,Rahul,abc,,R&D,not_a_date
+168,Lakshmi,abc,,Operations,2019-01-10 00:00:00
+670,Divya,,113652.0,Sales,not_a_date
+481,Manoj,49,,R&D,2024-01-11 00:00:00
+377,Anita,,500000.0,Finance,2019-05-24 00:00:00
+726,Vikram,,,Sales,not_a_date
+944,Sameer,,67533.0,,not_a_date
+413,Nisha,abc,500000.0,,not_a_date
+648,Pallavi,,86788.0,Sales,not_a_date
+797,Manoj,abc,,Legal,2018-07-10 00:00:00
+388,Rohan,44,,Sales,2020-02-07 00:00:00
+919,Nisha,,62487.0,Management,2016-08-16 00:00:00
+607,Vikram,55,,Management,2016-08-11 00:00:00
+556,Rohan,48,,Finance,2017-01-17 00:00:00
+270,Sameer,44,,Marketing,2022-11-14 00:00:00
+289,Suresh,abc,49285.0,Sales,not_a_date
+314,Kiran,abc,82108.0,Marketing,2017-10-25 00:00:00
+78,Divya,52,80680.0,Legal,2024-07-06 00:00:00
+949,Neha,abc,,,not_a_date
+419,Nisha,abc,500000.0,Finance,2015-12-22 00:00:00
+372,Varun,abc,,HR,not_a_date
+43,Nisha,,,,not_a_date
+1000,Pooja,abc,,Management,2017-04-01 00:00:00
+369,Kiran,22,500000.0,Sales,not_a_date
+402,Isha,52,,,not_a_date
+80,Anita,,500000.0,Support,not_a_date
+128,Anita,,500000.0,IT,2019-11-04 00:00:00
+967,Arjun,40,,HR,2020-04-11 00:00:00
+474,Sameer,abc,,,not_a_date
+946,Lakshmi,,500000.0,HR,2015-12-26 00:00:00
+192,Neha,abc,,Sales,not_a_date
+183,Deepak,,,Finance,2018-09-10 00:00:00
+624,Simran,,46195.0,IT,not_a_date
+887,Naveen,abc,80099.0,HR,2021-10-30 00:00:00
+76,Rohan,abc,,Legal,not_a_date
+337,Deepak,36,500000.0,Operations,2020-11-03 00:00:00
+585,Manoj,44,,IT,2018-09-17 00:00:00
+718,Arjun,,111475.0,,2015-10-28 00:00:00
+308,Suresh,abc,130654.0,Sales,not_a_date
+340,Meera,,500000.0,Finance,2024-06-27 00:00:00
+262,Neha,,500000.0,,2016-01-25 00:00:00
+764,Pooja,,116749.0,R&D,not_a_date
+73,Sameer,31,77733.0,Support,2024-06-19 00:00:00
+477,Pooja,,,Marketing,not_a_date
+418,Kiran,abc,500000.0,Marketing,not_a_date
+939,Sneha,abc,500000.0,R&D,not_a_date
+705,Priya,25,,HR,not_a_date
+167,Manoj,abc,28343.0,IT,2018-04-27 00:00:00
+906,Vikram,,500000.0,HR,not_a_date
+407,Sneha,34,500000.0,Management,not_a_date
+1,Arjun,58,500000.0,IT,2017-05-10 00:00:00
+198,Raj,,28267.0,IT,2017-04-05 00:00:00
+423,Vikram,,500000.0,Sales,2015-02-20 00:00:00
+96,John,abc,,Operations,2024-03-23 00:00:00
+835,Meera,,500000.0,Operations,not_a_date
+194,Rahul,abc,,Finance,2022-12-06 00:00:00
+88,Naveen,abc,76663.0,Management,not_a_date
+791,Sneha,,,,not_a_date
+81,Kiran,,500000.0,Marketing,2017-04-15 00:00:00
+191,Harsh,abc,500000.0,Operations,2017-12-02 00:00:00
+798,Rohan,abc,500000.0,IT,not_a_date
+153,Anita,,,Management,not_a_date
+736,Arjun,,54856.0,Marketing,not_a_date
+436,Pallavi,abc,500000.0,Marketing,not_a_date
+618,Amit,39,,R&D,2016-04-28 00:00:00
+678,Raj,abc,500000.0,HR,2016-07-06 00:00:00
+480,Isha,56,,Operations,not_a_date
+521,Rahul,abc,,IT,not_a_date
+595,John,abc,,Operations,not_a_date
+962,Meera,abc,,Legal,2016-11-16 00:00:00
+443,Kiran,,500000.0,Sales,not_a_date
+32,Raj,43,37185.0,Support,not_a_date
+202,Amit,28,,Finance,2021-02-17 00:00:00
+742,Nisha,abc,500000.0,Support,not_a_date
+310,Varun,,500000.0,HR,2017-06-18 00:00:00
+213,Kunal,31,500000.0,HR,2024-01-18 00:00:00
+22,Kunal,abc,,Support,2020-05-09 00:00:00
+965,Lakshmi,,500000.0,Finance,not_a_date
+870,Nisha,abc,98800.0,R&D,not_a_date
+551,Simran,,500000.0,Management,not_a_date
+47,Kunal,20,500000.0,Management,not_a_date
+379,Naveen,abc,,R&D,2022-03-20 00:00:00
+990,Sameer,abc,142235.0,Marketing,not_a_date
+382,Varun,48,33007.0,IT,2017-05-22 00:00:00
+185,Neha,abc,,Management,2021-04-24 00:00:00
+206,Divya,abc,32357.0,Marketing,2015-02-06 00:00:00
+411,Suresh,55,,Support,not_a_date
+719,Rohan,abc,500000.0,,2021-05-23 00:00:00
+537,Nisha,abc,,Legal,2023-01-09 00:00:00
+542,Arjun,abc,112312.0,Sales,not_a_date
+306,Deepak,,,HR,2015-02-12 00:00:00
+343,Divya,abc,104905.0,Support,not_a_date
+169,Neha,abc,500000.0,IT,not_a_date
+420,Lakshmi,,,Support,2023-01-14 00:00:00
+511,Anita,43,500000.0,Sales,2016-02-10 00:00:00
+38,Isha,,38986.0,HR,not_a_date
+342,John,37,,Management,not_a_date
+384,Varun,,,R&D,2016-12-25 00:00:00
+515,Harsh,,500000.0,Sales,2015-12-31 00:00:00
+212,Ankit,abc,72280.0,Legal,2019-06-24 00:00:00
+317,Divya,20,500000.0,Management,2016-06-07 00:00:00
+85,Mohit,,500000.0,,not_a_date
+881,Rahul,53,500000.0,IT,2023-02-12 00:00:00
+732,Meera,abc,500000.0,Sales,2022-01-02 00:00:00
+953,Mohit,32,500000.0,Operations,2021-01-16 00:00:00
+782,Priya,,,Operations,not_a_date
+509,Suresh,abc,500000.0,,not_a_date
+599,Meera,,,Legal,2022-03-03 00:00:00
+254,Rohan,abc,,HR,not_a_date
+581,Suresh,abc,500000.0,Management,2016-08-02 00:00:00
+279,Aditya,,,R&D,not_a_date
+783,Raj,abc,500000.0,Finance,not_a_date
+181,Priya,abc,65158.0,Management,not_a_date
+839,Varun,,,Support,not_a_date
+433,Vikram,45,500000.0,Marketing,2016-07-28 00:00:00
+290,Harsh,36,78871.0,Finance,2022-09-15 00:00:00
+4,Raj,abc,62194.0,IT,not_a_date
+669,Divya,,,Marketing,2020-05-03 00:00:00
+911,Neha,29,500000.0,,2020-03-26 00:00:00
+164,Harsh,31,500000.0,Sales,not_a_date
+189,Sameer,,29000.0,R&D,2017-08-14 00:00:00
+40,Manoj,58,,Sales,2020-09-19 00:00:00
+283,Varun,20,62744.0,Legal,not_a_date
+280,Rakesh,,,Marketing,not_a_date
+367,Lakshmi,abc,,Finance,not_a_date
+697,Simran,31,97541.0,IT,2019-10-15 00:00:00
+271,Deepak,,111704.0,Management,2019-01-24 00:00:00
+475,Suresh,38,,Marketing,not_a_date
+505,Isha,abc,44250.0,R&D,not_a_date
+494,Suresh,abc,117201.0,Legal,not_a_date
+773,Suresh,51,500000.0,Management,2021-05-27 00:00:00
+615,Neha,51,38281.0,Marketing,2018-12-06 00:00:00
+112,Nisha,54,,R&D,2017-08-14 00:00:00
+147,Lakshmi,,500000.0,Legal,not_a_date
+368,Mohit,55,130292.0,Marketing,2020-07-19 00:00:00
+993,Lakshmi,,500000.0,R&D,2024-07-21 00:00:00
+221,Kavya,58,500000.0,Marketing,not_a_date
+635,Tanya,abc,500000.0,Operations,2023-06-21 00:00:00
+399,Arjun,abc,,Finance,not_a_date
+84,Suresh,43,500000.0,Legal,2023-01-10 00:00:00
+132,Rahul,abc,126279.0,R&D,2020-06-29 00:00:00
+462,Manoj,,135904.0,Marketing,2022-09-07 00:00:00
+405,Deepak,abc,80180.0,R&D,2023-11-05 00:00:00
+552,Raj,abc,,,2017-01-28 00:00:00
+689,Ankit,,500000.0,Sales,not_a_date
+746,Anita,27,500000.0,Operations,2018-09-26 00:00:00
+991,Simran,,,Marketing,2022-04-03 00:00:00
+818,Varun,abc,,Sales,2016-03-16 00:00:00
+109,Riya,,27200.0,Operations,not_a_date
+403,Tanya,abc,84201.0,Marketing,not_a_date
+282,Sameer,,500000.0,Finance,not_a_date
+588,Aditya,abc,50559.0,Legal,2023-10-01 00:00:00
+99,Manoj,,56616.0,Sales,2018-08-20 00:00:00
+256,Neha,abc,500000.0,Management,2022-07-08 00:00:00
+691,Kunal,51,500000.0,Support,not_a_date
+751,Manoj,45,,Management,2024-07-17 00:00:00
+831,Deepak,abc,,Support,2022-01-08 00:00:00
+401,Pooja,56,57154.0,Sales,2017-08-08 00:00:00
+193,Naveen,50,500000.0,Marketing,not_a_date
+105,Mohit,52,500000.0,R&D,not_a_date
+41,Rakesh,,47662.0,Operations,not_a_date
+315,Neha,37,136195.0,Sales,2016-11-12 00:00:00
+266,Suresh,,48793.0,Support,not_a_date
+628,Kavya,,,Marketing,not_a_date
+912,Sameer,,,Management,not_a_date
+727,Rohan,,,Legal,not_a_date
+58,Naveen,,80820.0,Support,not_a_date
+114,Kiran,,500000.0,R&D,not_a_date
+324,Varun,,500000.0,Operations,not_a_date
+82,Ankit,abc,,Sales,2015-05-03 00:00:00
+91,Kavya,abc,500000.0,Marketing,2015-05-27 00:00:00
+116,Mohit,,,HR,not_a_date
+730,Nisha,,500000.0,Marketing,not_a_date
+915,Naveen,abc,78420.0,HR,not_a_date
+685,Meera,abc,500000.0,Support,2023-04-14 00:00:00
+359,Sneha,abc,,Sales,not_a_date
+625,Divya,54,,HR,not_a_date
+611,Lakshmi,36,500000.0,Sales,not_a_date
+708,Anita,,500000.0,Management,not_a_date
+629,Anita,,500000.0,Sales,not_a_date
+404,Deepak,,,IT,not_a_date
+327,Neha,,,Sales,not_a_date
+605,Sneha,abc,500000.0,Finance,not_a_date
+731,Kunal,abc,,Operations,2021-07-09 00:00:00
+129,Amit,,500000.0,HR,not_a_date
+499,Aditya,abc,500000.0,,2015-06-17 00:00:00
+546,Arjun,,,Sales,2015-02-08 00:00:00
+667,Naveen,29,500000.0,Marketing,2020-05-05 00:00:00
+716,Deepak,,500000.0,Legal,not_a_date
+796,Harsh,,,,2020-11-07 00:00:00
+265,Tanya,,90545.0,Operations,not_a_date
+10,Rakesh,abc,500000.0,,2017-01-17 00:00:00
+964,Tanya,abc,500000.0,HR,not_a_date
+653,Rahul,abc,59531.0,,not_a_date
+451,Anita,abc,500000.0,Support,2023-10-21 00:00:00
+349,Raj,abc,141148.0,Sales,not_a_date
+155,Isha,abc,500000.0,IT,2018-05-04 00:00:00
+694,Kavya,abc,500000.0,HR,2019-10-04 00:00:00
+603,Mohit,26,500000.0,R&D,not_a_date
+806,Manoj,,500000.0,Legal,2016-12-20 00:00:00
+567,Ankit,abc,149988.0,Legal,not_a_date
+322,Pallavi,,135698.0,R&D,not_a_date
+170,Amit,22,500000.0,Support,not_a_date
+909,Deepak,21,500000.0,Support,not_a_date
+255,Pallavi,27,34337.0,Operations,not_a_date
+899,Kavya,abc,500000.0,Sales,2019-12-01 00:00:00
+512,Riya,24,114399.0,Operations,not_a_date
+613,Sameer,,500000.0,,2021-09-27 00:00:00
+548,Kunal,,,Management,not_a_date
+74,Meera,abc,500000.0,Finance,not_a_date
+883,Rakesh,,71659.0,R&D,not_a_date
+137,Mohit,abc,,Legal,2023-03-29 00:00:00
+933,Harsh,20,47614.0,Sales,not_a_date
+86,Varun,30,500000.0,Marketing,not_a_date
+758,Priya,,500000.0,HR,2016-12-04 00:00:00
+600,Manoj,32,58130.0,Operations,not_a_date
+786,Neha,abc,500000.0,Support,not_a_date
+187,Lakshmi,46,,Support,2019-08-15 00:00:00
+593,Varun,,,Finance,2023-07-09 00:00:00
+39,Manoj,52,,Legal,not_a_date
+427,Kavya,abc,500000.0,Legal,not_a_date
+568,Priya,abc,25806.0,Sales,not_a_date
+495,Anita,abc,500000.0,Operations,2023-06-16 00:00:00
+352,Tanya,,38918.0,Support,2022-11-10 00:00:00
+478,Pooja,abc,119914.0,Support,not_a_date
+8,Anita,abc,,Management,2021-08-30 00:00:00
+817,Ankit,abc,500000.0,Finance,not_a_date
+141,Kunal,,,Support,2019-09-02 00:00:00
+757,Raj,abc,,Operations,not_a_date
+247,Rahul,40,86642.0,,2022-09-12 00:00:00
+450,Neha,49,,Sales,2024-03-30 00:00:00
+245,Raj,51,,Finance,2020-01-27 00:00:00
+619,Rahul,abc,500000.0,Marketing,2017-11-06 00:00:00
+273,Varun,54,500000.0,Finance,not_a_date
+354,Mohit,50,,Management,not_a_date
+125,Mohit,abc,,Operations,not_a_date
+821,Divya,abc,500000.0,R&D,2021-11-11 00:00:00
+788,Harsh,30,500000.0,R&D,2015-11-20 00:00:00
+260,Deepak,39,,Operations,not_a_date
+771,Manoj,abc,500000.0,,not_a_date
+154,Tanya,56,138632.0,Support,2021-04-30 00:00:00
+311,Neha,59,500000.0,IT,not_a_date
+19,Harsh,,149243.0,Finance,2020-11-09 00:00:00
+956,Sneha,abc,41905.0,IT,2017-02-21 00:00:00
+601,Kunal,abc,,Management,2018-04-08 00:00:00
+357,Neha,47,500000.0,Management,2015-01-04 00:00:00
+139,Tanya,abc,91320.0,,not_a_date
+332,Riya,,,IT,2021-08-07 00:00:00
+767,Deepak,30,500000.0,,2018-09-29 00:00:00
+820,Harsh,54,,R&D,2019-04-27 00:00:00
+888,Riya,abc,,Finance,not_a_date
+696,Pooja,abc,123656.0,,2017-06-21 00:00:00
+560,Kunal,,57733.0,Operations,2020-08-12 00:00:00
+943,Anita,51,101295.0,IT,not_a_date
+580,Rakesh,,32906.0,Marketing,2017-02-19 00:00:00
+272,Priya,abc,,Management,not_a_date
+681,Deepak,26,123762.0,,not_a_date
+582,Sameer,,500000.0,Legal,not_a_date
+819,Divya,abc,,Sales,2018-09-05 00:00:00
+668,Priya,,74153.0,R&D,not_a_date
+200,John,55,500000.0,Management,2024-03-02 00:00:00
+50,Sameer,33,,IT,not_a_date
+333,Harsh,37,130977.0,Support,not_a_date
+828,Sameer,,,HR,2018-10-08 00:00:00
+721,Deepak,33,,Finance,2020-06-16 00:00:00
+161,Aditya,,500000.0,Support,not_a_date
+620,Meera,abc,,Operations,not_a_date
+942,Arjun,abc,500000.0,Marketing,not_a_date
+493,Nisha,abc,,IT,2020-12-15 00:00:00
+428,John,,500000.0,Marketing,2023-04-19 00:00:00
+520,Arjun,abc,500000.0,Legal,2015-01-25 00:00:00
+93,Kiran,,108879.0,Finance,2019-07-22 00:00:00
+518,Varun,,,Management,not_a_date
+955,Lakshmi,,,Marketing,2018-06-03 00:00:00
+886,Varun,abc,500000.0,HR,not_a_date
+223,Tanya,abc,500000.0,HR,not_a_date
+302,Aditya,abc,,HR,not_a_date
+714,Amit,,,Management,2023-10-22 00:00:00
+590,Manoj,abc,,Marketing,not_a_date
+980,Nisha,abc,,Operations,not_a_date
+446,Divya,,,Finance,not_a_date
+598,Nisha,,142071.0,IT,2023-11-14 00:00:00
+574,Kiran,45,,Sales,not_a_date
+294,Meera,abc,500000.0,Management,2017-02-02 00:00:00
+390,Aditya,57,,,not_a_date
+453,Nisha,,500000.0,R&D,not_a_date
+464,Kunal,,,HR,not_a_date
+277,John,57,,HR,2018-12-31 00:00:00
+122,Neha,abc,73404.0,Sales,2017-03-08 00:00:00
+573,Rakesh,abc,500000.0,Legal,2015-08-14 00:00:00
+880,Riya,25,,Finance,2019-08-04 00:00:00
+15,Aditya,,105038.0,R&D,not_a_date
+738,Kunal,,500000.0,Legal,not_a_date
+422,Amit,,500000.0,R&D,2024-06-11 00:00:00
+673,Sneha,abc,500000.0,Operations,not_a_date
+566,Kiran,,500000.0,Support,2023-10-17 00:00:00
+248,John,,500000.0,Marketing,not_a_date
+970,Kiran,,500000.0,IT,not_a_date
+361,Deepak,,500000.0,HR,not_a_date
+596,Kiran,53,500000.0,Sales,2020-06-19 00:00:00
+5,Riya,43,69131.0,Legal,not_a_date
+753,Raj,59,500000.0,,not_a_date
+242,Amit,32,,Finance,not_a_date
+686,John,31,,Support,not_a_date
+847,Kiran,,,Legal,2022-04-28 00:00:00
+159,Pooja,32,500000.0,R&D,2016-09-27 00:00:00
+559,Priya,,144123.0,Legal,not_a_date
+569,Rakesh,,,R&D,not_a_date
+700,Neha,,50963.0,Management,2024-06-15 00:00:00
+947,Meera,44,60144.0,Sales,2023-03-29 00:00:00
+216,Naveen,abc,,Operations,not_a_date
+926,Isha,48,500000.0,Legal,2023-06-09 00:00:00
+564,Kavya,abc,115093.0,Finance,not_a_date
+897,Pallavi,,,IT,2015-07-09 00:00:00
+938,Rakesh,40,119439.0,HR,2020-05-04 00:00:00
+491,Nisha,45,500000.0,Support,not_a_date
+843,Arjun,abc,,Legal,not_a_date
+68,Raj,,83053.0,R&D,not_a_date
+360,Manoj,21,500000.0,Support,not_a_date
+854,Rohan,31,,Management,not_a_date
+890,Suresh,38,96966.0,Legal,2023-05-17 00:00:00
+461,Tanya,,,R&D,not_a_date
+267,Ankit,,,Sales,2019-12-30 00:00:00
+339,Sameer,abc,,HR,2023-12-28 00:00:00
+301,Harsh,,141868.0,Marketing,not_a_date
+507,Sameer,48,500000.0,,2018-08-12 00:00:00
+394,Amit,59,,Finance,2023-07-08 00:00:00
+25,Manoj,abc,500000.0,IT,2019-02-09 00:00:00
+26,Rohan,,,Marketing,not_a_date
+441,Meera,,,IT,2021-01-12 00:00:00
+362,Vikram,24,31469.0,,not_a_date
+199,Varun,abc,500000.0,IT,2024-06-09 00:00:00
+492,Neha,abc,500000.0,Management,not_a_date
+90,Meera,abc,97082.0,IT,not_a_date
+571,Vikram,abc,,Legal,2017-02-10 00:00:00
+529,Rahul,abc,,Operations,not_a_date
+233,Sneha,44,,Finance,not_a_date
+278,Neha,,500000.0,IT,2022-06-17 00:00:00
+950,John,abc,,HR,2015-04-29 00:00:00
+800,Varun,55,144891.0,Finance,2019-01-15 00:00:00
+143,Naveen,44,35647.0,IT,2016-06-08 00:00:00
+859,Kunal,abc,500000.0,Sales,not_a_date
+434,Anita,44,500000.0,HR,2020-10-23 00:00:00
+608,Arjun,abc,116659.0,Finance,not_a_date
+824,Meera,,500000.0,Finance,2021-05-24 00:00:00
+645,Tanya,46,124911.0,Legal,not_a_date
+631,Naveen,abc,,Support,2021-09-10 00:00:00
+393,Neha,21,43381.0,Operations,not_a_date
+895,Naveen,,62846.0,,not_a_date
+602,Nisha,,500000.0,Marketing,not_a_date
+516,Vikram,,,Operations,2015-06-03 00:00:00
+218,Harsh,54,127795.0,Sales,2023-06-24 00:00:00
+471,Manoj,50,,Finance,2017-08-01 00:00:00
+124,Divya,52,119660.0,R&D,2023-05-26 00:00:00
+79,Mohit,,500000.0,Sales,2019-09-04 00:00:00
+205,Sameer,abc,59911.0,Marketing,2019-08-15 00:00:00
+412,Pallavi,,125420.0,IT,2019-08-11 00:00:00
+226,Suresh,26,46677.0,Support,not_a_date
+610,Nisha,,,IT,not_a_date
+157,Pallavi,abc,94678.0,Finance,2022-12-24 00:00:00
+489,Naveen,,500000.0,Legal,not_a_date
+195,Amit,45,500000.0,Support,not_a_date
+616,Isha,,500000.0,Operations,2020-09-15 00:00:00
+644,Isha,34,,Legal,2021-03-05 00:00:00
+59,Kunal,abc,500000.0,Finance,2024-01-28 00:00:00
+214,John,38,,HR,not_a_date
+45,Pallavi,,500000.0,Support,not_a_date
+456,Kunal,,,HR,2024-02-18 00:00:00
+504,Kavya,abc,,,not_a_date
+729,Mohit,,,Sales,2019-10-09 00:00:00
+225,Sameer,abc,102052.0,Marketing,2024-01-15 00:00:00
+959,Simran,,500000.0,Legal,2023-04-21 00:00:00
+331,Kavya,,,IT,2019-07-05 00:00:00
+160,Manoj,,,Sales,not_a_date
+457,Anita,,500000.0,Marketing,2017-03-10 00:00:00
+307,Nisha,30,500000.0,Marketing,2020-11-28 00:00:00
+623,Meera,,,Management,2024-02-24 00:00:00
+228,Varun,abc,,IT,not_a_date
+647,Naveen,,500000.0,IT,not_a_date
+484,Kunal,abc,,IT,2020-10-07 00:00:00
+373,Varun,,500000.0,,2019-06-25 00:00:00
+555,Tanya,,500000.0,Marketing,2015-01-29 00:00:00
+720,Sameer,,,Management,2016-09-21 00:00:00
+987,Nisha,,59196.0,Operations,2021-06-07 00:00:00
+12,Sneha,,,,2017-09-02 00:00:00
+638,Lakshmi,,53602.0,HR,not_a_date
+825,Harsh,58,,Legal,not_a_date
+756,Anita,,72055.0,Support,not_a_date
+519,Rahul,abc,,Marketing,not_a_date
+55,Pallavi,,,Marketing,not_a_date
+33,Manoj,abc,500000.0,Management,2015-03-06 00:00:00
+665,Manoj,,139126.0,Finance,not_a_date
+501,Vikram,,,,2019-09-05 00:00:00
+736,Arjun,,54856.0,Marketing,not_a_date
+391,Riya,abc,,Marketing,not_a_date
+134,Rohan,37,,Management,not_a_date
+421,John,abc,500000.0,,2015-05-07 00:00:00
+674,Nisha,abc,500000.0,Legal,not_a_date
+745,Lakshmi,35,,Marketing,2022-08-25 00:00:00
+734,Suresh,abc,105896.0,Support,not_a_date
+175,Raj,24,500000.0,Management,2023-02-07 00:00:00
+699,Pallavi,abc,,Management,2022-10-23 00:00:00
+682,Kavya,,,Marketing,2024-06-23 00:00:00
+693,Isha,abc,500000.0,Finance,2015-11-08 00:00:00
+997,Amit,abc,34596.0,Sales,not_a_date
+795,Lakshmi,,,R&D,2015-01-02 00:00:00
+698,Amit,,84321.0,,2017-08-14 00:00:00
+604,Sameer,50,72638.0,Marketing,2016-03-01 00:00:00
+104,Manoj,22,500000.0,Support,2021-01-08 00:00:00
+465,Deepak,56,97258.0,Management,2023-07-20 00:00:00
+687,Simran,abc,104148.0,IT,2018-06-20 00:00:00
+784,Deepak,,500000.0,Legal,not_a_date
+156,Aditya,25,,Management,2017-09-18 00:00:00
+119,Rakesh,41,31893.0,Support,2019-08-21 00:00:00
+263,Neha,,81178.0,Operations,2015-09-13 00:00:00
+833,Divya,abc,,Finance,not_a_date
+230,Simran,,500000.0,IT,2019-02-28 00:00:00
+858,Divya,abc,,Sales,not_a_date
+188,Varun,abc,500000.0,Marketing,not_a_date
+378,Priya,,,Support,not_a_date
+740,Vikram,,500000.0,Sales,2024-03-31 00:00:00
+409,Riya,,500000.0,IT,2015-05-10 00:00:00
+171,Raj,,,Legal,not_a_date
+541,Nisha,58,500000.0,HR,not_a_date
+411,Suresh,55,,Support,not_a_date
+884,Raj,abc,,IT,not_a_date
+182,Sameer,abc,500000.0,Marketing,not_a_date
+780,Isha,48,26177.0,IT,not_a_date
+17,Ankit,,,Support,not_a_date
+614,Suresh,,54257.0,Management,2018-06-10 00:00:00
+111,Mohit,37,,,2022-11-09 00:00:00
+387,Varun,23,41984.0,Operations,2019-11-08 00:00:00
+675,Kiran,,500000.0,HR,not_a_date
+138,Priya,abc,500000.0,Sales,2018-11-10 00:00:00
+398,Simran,abc,84379.0,R&D,not_a_date
+868,Suresh,,,HR,2015-05-14 00:00:00
+849,Riya,,87711.0,Support,not_a_date
+770,Sneha,,125494.0,R&D,2017-07-05 00:00:00
+792,Amit,,,Finance,not_a_date
+102,Naveen,abc,,Finance,2023-09-06 00:00:00
+677,Kunal,,130221.0,HR,2023-08-11 00:00:00
+968,Suresh,59,500000.0,Management,2016-10-08 00:00:00
+558,Lakshmi,29,500000.0,Operations,2017-07-09 00:00:00
+586,Meera,abc,500000.0,IT,2015-02-09 00:00:00
+53,Simran,,,HR,not_a_date
+815,Nisha,34,,HR,not_a_date
+44,Riya,42,,R&D,not_a_date
+565,Ankit,,,Support,2022-11-04 00:00:00
+650,Mohit,22,40251.0,,2016-06-10 00:00:00
+54,Manoj,58,500000.0,Management,not_a_date
+118,Aditya,31,500000.0,Operations,not_a_date
+49,Aditya,45,123806.0,,2022-09-15 00:00:00
+313,Rohan,46,94724.0,Support,2016-11-02 00:00:00
+525,Ankit,,500000.0,Operations,2019-03-01 00:00:00
+986,Lakshmi,53,135058.0,Sales,2021-11-25 00:00:00
+982,Lakshmi,abc,90095.0,Sales,not_a_date
+252,Rahul,abc,500000.0,Marketing,not_a_date
+578,Kavya,abc,500000.0,Operations,2020-10-10 00:00:00
+356,Naveen,25,147177.0,IT,2016-04-12 00:00:00
+65,Suresh,52,55080.0,Support,not_a_date
+438,Priya,,135616.0,Sales,2020-06-13 00:00:00
+969,Neha,abc,,Support,2019-10-26 00:00:00
+488,Divya,abc,500000.0,Sales,not_a_date
+994,Naveen,39,500000.0,Support,2019-11-14 00:00:00
+149,John,42,500000.0,Management,2017-05-03 00:00:00
+940,Tanya,34,,Management,2018-11-15 00:00:00
+326,Suresh,abc,500000.0,,not_a_date
+28,Kunal,55,500000.0,,2017-03-26 00:00:00
+3,Tanya,abc,500000.0,Marketing,not_a_date
+274,Arjun,40,,IT,not_a_date
+804,Priya,,77249.0,Marketing,2016-06-04 00:00:00
+263,Neha,,81178.0,Operations,2015-09-13 00:00:00
+776,Kavya,,,R&D,not_a_date
+728,Harsh,,500000.0,Operations,not_a_date
+905,Priya,abc,,Finance,not_a_date
+162,Lakshmi,45,,Management,2015-04-27 00:00:00
+749,Kavya,abc,149398.0,Legal,not_a_date
+173,Sameer,,500000.0,Legal,not_a_date
+855,Kunal,abc,143413.0,Finance,2016-04-25 00:00:00
+621,Mohit,,34077.0,Sales,2022-07-15 00:00:00
+977,Aditya,,33706.0,Operations,2016-12-03 00:00:00
+952,Rakesh,,,Marketing,2017-02-08 00:00:00
+822,Amit,,134847.0,Legal,2016-11-30 00:00:00
+459,Nisha,53,77603.0,Sales,not_a_date
+166,Kunal,,,R&D,2024-01-22 00:00:00
+329,Raj,43,500000.0,Management,not_a_date
+649,Rohan,abc,,Support,not_a_date
+528,Ankit,,26750.0,Sales,2019-02-17 00:00:00
+898,Suresh,26,,HR,not_a_date
+31,Tanya,37,107798.0,Finance,not_a_date
+100,Neha,31,45932.0,Support,2023-07-06 00:00:00
+397,Neha,34,145430.0,Legal,not_a_date
+741,Rakesh,,500000.0,HR,2023-07-08 00:00:00
+210,Divya,,,Sales,not_a_date
+522,Kunal,abc,111123.0,Legal,not_a_date
+455,Lakshmi,49,500000.0,HR,not_a_date
+892,Naveen,,,R&D,not_a_date
+873,Sameer,37,500000.0,Operations,2019-12-17 00:00:00
+236,Neha,abc,,Legal,not_a_date
+227,Sneha,59,,Finance,2018-11-17 00:00:00
+974,Sneha,abc,73689.0,R&D,not_a_date
+768,Isha,,500000.0,Sales,not_a_date
+658,Pallavi,27,148153.0,Management,2020-07-06 00:00:00
+496,Rohan,abc,122432.0,HR,not_a_date
+303,Varun,36,112369.0,Sales,not_a_date
+355,Harsh,abc,500000.0,Operations,not_a_date
+553,Harsh,,52788.0,Sales,2018-07-21 00:00:00
+540,Rahul,abc,500000.0,Sales,not_a_date
+871,Varun,40,49226.0,R&D,2022-03-10 00:00:00
+304,John,,500000.0,Support,not_a_date
+502,Rahul,abc,60737.0,Finance,2023-04-17 00:00:00
+683,Pooja,abc,500000.0,Support,not_a_date
+913,Mohit,abc,,Management,2020-07-02 00:00:00
+810,Aditya,abc,,Marketing,2023-04-29 00:00:00
+293,Rakesh,abc,500000.0,Marketing,not_a_date
+652,Simran,,500000.0,Management,2018-06-13 00:00:00
+723,Sneha,abc,500000.0,R&D,not_a_date
+979,Suresh,49,30926.0,Management,2020-11-25 00:00:00
+852,Neha,,500000.0,Operations,2017-03-10 00:00:00
+533,Riya,,54711.0,Sales,2016-12-11 00:00:00
+713,Kunal,44,126459.0,Operations,not_a_date
+606,Riya,49,67534.0,,not_a_date
+793,Varun,abc,500000.0,Marketing,2019-07-30 00:00:00
+431,Aditya,abc,,Legal,2023-10-14 00:00:00
+452,Simran,abc,500000.0,Support,not_a_date
+785,Vikram,,,HR,not_a_date
+523,Harsh,,45581.0,Management,2022-12-23 00:00:00
+876,Meera,,500000.0,Marketing,not_a_date
+536,Sameer,26,,Finance,2015-12-01 00:00:00
+929,Tanya,41,500000.0,Support,not_a_date
+101,John,51,,Marketing,not_a_date
+13,Deepak,abc,90725.0,Support,2023-03-25 00:00:00
+235,Sneha,50,500000.0,Operations,2021-10-28 00:00:00
+917,Kiran,,29798.0,Sales,not_a_date
